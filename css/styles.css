@@ -23,6 +23,10 @@ table {
     margin: 0px auto;
 }
 
+#dias th {
+  background-color: #d3d2d2;
+}
+
 td,
 th {
     border: 1px solid #000;
@@ -49,6 +53,7 @@ td {
 .horas {
     padding: 10px 50px;
     font-size: 15px;
+    background-color: #d3d2d2;
 }
 
 td .bold {
