@@ -63,6 +63,7 @@ td .bold {
 .FIS {
     background-color: rgba(114, 189, 255, 0.397);
     transition: 0.9s;
+    color: rgb(18, 57, 92);
 }
 
 .FIS:hover {
@@ -74,6 +75,7 @@ td .bold {
 .PORT {
     background-color: #ff4a4a85;
     transition: 0.6s;
+    color: #500d0d;
 }
 
 .PORT:hover {
@@ -85,6 +87,7 @@ td .bold {
 .MAT {
     background-color: #5c74ff71;
     transition: 0.6s;
+    color: #071461;
 }
 
 .MAT:hover {
@@ -96,6 +99,7 @@ td .bold {
 .AINF {
     background-color: #57ff7c80;
     transition: 0.6s;
+    color: #0f4d1c;
 }
 
 .AINF:hover {
@@ -107,6 +111,7 @@ td .bold {
 .EF {
     background-color: #fff45d77;
     transition: 0.6s;
+    color: #534e00;
 }
 
 .EF:hover {
